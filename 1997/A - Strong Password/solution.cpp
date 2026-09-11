@@ -26,8 +26,7 @@
 //             x = true;
 //             if (s[0] == 'a')
 //             {
-//                 cout << "az" << "
-";
+//                 cout << "az" << "endl";
 //             }
 //             else if (s[0] == 'z')
 //             {
