@@ -6,21 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (2)
 
 ---
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 44A | [Indian Summer](https://codeforces.com/contest/44/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/44/A%20-%20Indian%20Summer/solution.cpp) |
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
 
 ---
 
