@@ -14,6 +14,7 @@ int main()
         cin >> n;
         string s;
         cin >> s;
+//habib
  
         set<char> st;
         vector<char> v;
@@ -33,19 +34,14 @@ int main()
         {
             mp[v[i]] = v2[i];
         }
- 
- 
-        vector<char> ans;
         for (size_t i = 0; i < s.size(); i++)
         {
             auto it = mp.find(s[i]);
  
-            ans.push_back(it->second);
+            cout << it->second;
         }
- 
-        for (auto x : ans)
-            cout << x;
         cout << endl;
+ 
     }
  
     return 0;
