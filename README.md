@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
+- [dp](#dp) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (4)
 - [sortings](#sortings) (1)
@@ -31,7 +32,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.cpp) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.cpp) |
 
 ### greedy
 
