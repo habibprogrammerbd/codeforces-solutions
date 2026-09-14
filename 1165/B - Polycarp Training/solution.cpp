@@ -8,29 +8,31 @@ int main()
  
     int n;
     cin >> n;
-    priority_queue<int, vector<int>, greater<int>> pq;
+    multiset<int> st;
     for (int i = 0; i < n; i++)
     {
         int x;
         cin >> x;
-        pq.push(x);
+        st.insert(x);
     }
-    int count = 0;
-    int idx = 1;
-    while (!pq.empty())
+ 
+    int day = 0, problem = 1;
+    while (!st.empty())
     {
-        if (pq.top() >= idx)
+        auto lb = st.lower_bound(problem);
+        if (lb != st.end())
         {
-            count++;
-            pq.pop();
-            idx++;
+            day++;
+            st.erase(lb);
         }
         else
         {
-            pq.pop();
+            break;
         }
+        problem++;
     }
-    cout << count << endl;
+ 
+    cout << day << endl;
  
     return 0;
 }
