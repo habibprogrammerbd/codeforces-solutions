@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 11 |
+| 15 | 11 |
 
 ---
 
@@ -15,13 +15,13 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (9)
+- [data structures](#data-structures) (10)
 - [dp](#dp) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (6)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -56,6 +56,7 @@
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1468C | [Berpizza](https://codeforces.com/contest/1468/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1468/C%20-%20Berpizza/solution.cpp) |
 | 1506D | [Epic Transformation](https://codeforces.com/contest/1506/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1506/D%20-%20Epic%20Transformation/solution.cpp) |
+| 1669E | [2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1669/E%20-%202-Letter%20Strings/solution.cpp) |
 | 1702C | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1702/C%20-%20Train%20and%20Queries/solution.cpp) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
@@ -94,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1669E | [2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1669/E%20-%202-Letter%20Strings/solution.cpp) |
 
 ### sortings
 
@@ -106,6 +108,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1669E | [2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1669/E%20-%202-Letter%20Strings/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
 
