@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 16 | 11 |
 
 ---
 
@@ -15,13 +15,13 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (10)
+- [data structures](#data-structures) (11)
 - [dp](#dp) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (6)
 - [math](#math) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -60,6 +60,7 @@
 | 1702C | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1702/C%20-%20Train%20and%20Queries/solution.cpp) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
+| 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
 
 ### dp
@@ -111,6 +112,7 @@
 | 1669E | [2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1669/E%20-%202-Letter%20Strings/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
+| 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 
 ### two pointers
 
