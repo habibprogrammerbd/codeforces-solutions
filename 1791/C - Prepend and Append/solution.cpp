@@ -18,49 +18,17 @@ int main()
         int left = 0;
         int right = s.size() - 1;
  
-        int count = 0;
-        bool x = false;
+        int count = n;
         while (left <= right)
         {
-            if (x == false)
+            if (s[left] == s[right])
             {
-                if (s[left] == '0' && s[right] == '1')
-                {
-                    left++;
-                    right--;
-                }
-                else if (s[left] == '1' && s[right] == '0')
-                {
-                    left++;
-                    right--;
-                }
-                else
-                {
-                    x = true;
-                    if (left == right)
-                    {
-                        count++;
-                    }
-                    else
-                    {
-                        count += 2;
-                    }
-                    left++;
-                    right--;
-                }
+                break;
             }
             else
             {
-                if (left == right)
-                {
-                    count++;
-                }
-                else
-                {
-                    count += 2;
-                }
-                left++;
-                right--;
+                count -= 2;
+                left++,right--;
             }
         }
  
