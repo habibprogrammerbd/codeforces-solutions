@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 12 |
+| 26 | 12 |
 
 ---
 
@@ -18,12 +18,12 @@
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (12)
 - [dp](#dp) (1)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (10)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (11)
 - [math](#math) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -92,6 +92,7 @@
 | 1515A | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1515/A%20-%20Phoenix%20and%20Gold/solution.cpp) |
 | 1702C | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1702/C%20-%20Train%20and%20Queries/solution.cpp) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
+| 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
 
 ### implementation
@@ -108,6 +109,7 @@
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
+| 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 
 ### math
 
@@ -142,6 +144,7 @@
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
+| 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 
 ---
 
