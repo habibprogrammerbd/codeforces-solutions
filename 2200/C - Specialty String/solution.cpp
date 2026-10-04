@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	int t;cin>>t;
+	while(t--){
+		int n;cin>>n;
+		vector<char>a(n+1);
+		int i=0;
+		while(n--){
+			i++;
+			cin>>a[i];
+			if(a[i]==a[i-1]&&i>1)i-=2;
+		}
+		if(i==0)cout<<"YES"<<'
+';
+    //habib
+		else cout<<"NO"<<'
+';
+	}
+	return 0;
+}
