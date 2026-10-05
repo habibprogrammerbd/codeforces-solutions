@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int a[100];
+int main(){
+	int t;cin>>t;
+	while(t--){
+		int n;cin>>n;
+		int tag=0;
+		for(int i=1;i<=n;i++) cin>>a[i],tag|=(a[i]==67);
+		cout<<(tag?"YES
+":"NO
+");
+	}
+	return 0;
+}
