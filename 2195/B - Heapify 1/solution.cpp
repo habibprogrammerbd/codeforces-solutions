@@ -7,6 +7,7 @@ int main(){
 		while(!(p[i]&1)) p[i]>>=1;
 	}
 	while(t--){
+    //habib
 		cin>>n,f=0;
 		for(int i=1,a;i<=n;i++)
 			cin>>a,f|=(p[a]!=p[i]);
