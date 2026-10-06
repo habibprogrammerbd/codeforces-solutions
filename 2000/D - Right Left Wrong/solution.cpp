@@ -56,9 +56,6 @@ int main()
             }
         }
  
-        // for (auto x : pre)
-        //     cout << x << " ";
- 
         cout << sum << endl;
     }
  
