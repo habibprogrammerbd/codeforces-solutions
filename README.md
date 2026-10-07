@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 13 |
+| 38 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (6)
@@ -35,6 +35,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### binary search
 
