@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 13 |
+| 39 | 14 |
 
 ---
 
@@ -14,12 +14,13 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (12)
+- [data structures](#data-structures) (13)
 - [dp](#dp) (2)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
@@ -53,6 +54,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### constructive algorithms
 
@@ -81,6 +83,7 @@
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### dp
 
@@ -88,6 +91,12 @@
 |---|---------|------------|----------|
 | 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### greedy
 
@@ -126,6 +135,7 @@
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### math
 
