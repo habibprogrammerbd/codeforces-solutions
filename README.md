@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 14 |
+| 40 | 14 |
 
 ---
 
@@ -14,17 +14,17 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (13)
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (9)
 
 ---
@@ -50,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
@@ -123,6 +124,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 44A | [Indian Summer](https://codeforces.com/contest/44/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/44/A%20-%20Indian%20Summer/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1468C | [Berpizza](https://codeforces.com/contest/1468/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1468/C%20-%20Berpizza/solution.cpp) |
 | 1501A | [Alexey and Train](https://codeforces.com/contest/1501/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1501/A%20-%20Alexey%20and%20Train/solution.cpp) |
@@ -169,6 +171,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 1669E | [2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1669/E%20-%202-Letter%20Strings/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
