@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 15 |
+| 47 | 15 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (15)
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (17)
+- [greedy](#greedy) (18)
 - [implementation](#implementation) (18)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (7)
-- [two pointers](#two-pointers) (15)
+- [two pointers](#two-pointers) (16)
 
 ---
 
@@ -69,6 +69,7 @@
 | 1509A | [Average Height](https://codeforces.com/contest/1509/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1509/A%20-%20Average%20Height/solution.cpp) |
 | 1515A | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1515/A%20-%20Phoenix%20and%20Gold/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
+| 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
 
 ### data structures
@@ -120,6 +121,7 @@
 | 1873F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1873/F%20-%20Money%20Trees/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
@@ -181,6 +183,7 @@
 |---|---------|------------|----------|
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
+| 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.cpp) |
@@ -211,6 +214,7 @@
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1843/B%20-%20Long%20Long/solution.cpp) |
 | 1873F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1873/F%20-%20Money%20Trees/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
+| 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
