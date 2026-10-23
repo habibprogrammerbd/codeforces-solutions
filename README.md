@@ -6,27 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 15 |
+| 50 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (8)
-- [data structures](#data-structures) (15)
+- [constructive algorithms](#constructive-algorithms) (9)
+- [data structures](#data-structures) (16)
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (18)
-- [implementation](#implementation) (18)
+- [greedy](#greedy) (21)
+- [implementation](#implementation) (19)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
-- [strings](#strings) (7)
-- [two pointers](#two-pointers) (16)
+- [strings](#strings) (8)
+- [two pointers](#two-pointers) (19)
 
 ---
 
@@ -46,6 +46,7 @@
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.cpp) |
 | 1873F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1873/F%20-%20Money%20Trees/solution.cpp) |
+| 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
 
 ### brute force
 
@@ -69,6 +70,7 @@
 | 1509A | [Average Height](https://codeforces.com/contest/1509/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1509/A%20-%20Average%20Height/solution.cpp) |
 | 1515A | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1515/A%20-%20Phoenix%20and%20Gold/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
+| 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
 | 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
 
@@ -87,6 +89,7 @@
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
@@ -120,6 +123,9 @@
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1843/B%20-%20Long%20Long/solution.cpp) |
 | 1873F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1873/F%20-%20Money%20Trees/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
+| 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
+| 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
 | 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
@@ -145,6 +151,7 @@
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.cpp) |
@@ -198,6 +205,7 @@
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1997A | [Strong Password](https://codeforces.com/contest/1997/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1997/A%20-%20Strong%20Password/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
+| 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
@@ -214,6 +222,9 @@
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1843/B%20-%20Long%20Long/solution.cpp) |
 | 1873F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1873/F%20-%20Money%20Trees/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
+| 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
+| 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 | 2128B | [Deque Process](https://codeforces.com/contest/2128/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2128/B%20-%20Deque%20Process/solution.cpp) |
 | 2136B | [Like the Bitset](https://codeforces.com/contest/2136/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2136/B%20-%20Like%20the%20Bitset/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
