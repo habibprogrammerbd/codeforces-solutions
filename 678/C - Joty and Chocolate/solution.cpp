@@ -28,7 +28,5 @@ int main()
 ';
     }
  
-    // cout << x << " " << y << " " << d << endl;
- 
     return 0;
 }
