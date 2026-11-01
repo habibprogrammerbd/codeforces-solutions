@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 5 |
 
 ---
 
@@ -14,6 +14,8 @@
 
 - [binary search](#binary-search) (1)
 - [data structures](#data-structures) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -29,6 +31,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 
 ### two pointers
 
