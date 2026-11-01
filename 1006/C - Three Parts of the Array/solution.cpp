@@ -50,8 +50,6 @@ int main()
         cout << final_ans << endl;
     else
         cout << 0 << endl;
-    // for (auto x : v)
-    // cout << x << " ";
- 
+ 
     return 0;
 }
