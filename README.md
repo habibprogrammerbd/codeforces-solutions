@@ -6,17 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [data structures](#data-structures) (1)
-- [greedy](#greedy) (1)
+- [data structures](#data-structures) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (2)
+- [sortings](#sortings) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -31,13 +33,21 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 2084B | [MIN = GCD](https://codeforces.com/contest/2084/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2084/B%20-%20MIN%20%3D%20GCD/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 
 ### math
 
@@ -53,6 +63,12 @@
 |---|---------|------------|----------|
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 2084B | [MIN = GCD](https://codeforces.com/contest/2084/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2084/B%20-%20MIN%20%3D%20GCD/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 
 ### two pointers
 
