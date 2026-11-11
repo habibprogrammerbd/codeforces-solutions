@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (3)
+- [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (7)
 - [greedy](#greedy) (4)
@@ -32,6 +33,12 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1676H1 | [Maximum Crossings (Easy Version)](https://codeforces.com/contest/1676/problem/H1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1676/H1%20-%20Maximum%20Crossings%20(Easy%20Version)/solution.cpp) |
 
 ### combinatorics
 
