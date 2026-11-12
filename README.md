@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 13 |
+| 17 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
@@ -27,6 +28,12 @@
 - [two pointers](#two-pointers) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### binary search
 
