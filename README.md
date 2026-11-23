@@ -6,22 +6,50 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [bitmasks](#bitmasks) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
 
 ### strings
 
