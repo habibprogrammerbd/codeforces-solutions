@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -21,6 +22,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/habibprogrammerbd/codeforces-solutions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 
 ### bitmasks
 
